@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/shap/shap/commit/4f8a9c97fb0ea4ce4b3c023f7aa6e86f4780610d",
       "git:hexsha": "4f8a9c97fb0ea4ce4b3c023f7aa6e86f4780610d",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.54.1rc0"
     },
     {
