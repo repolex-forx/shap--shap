@@ -1,0 +1,11 @@
+{
+  "org": "shap",
+  "repo": "shap",
+  "versions": [
+    {
+      "commit": "4f8a9c97fb0ea4ce4b3c023f7aa6e86f4780610d",
+      "tag": "v0.54.1",
+      "parsed_at": "2026-10-17T07:21:41.616734+00:00"
+    }
+  ]
+}
