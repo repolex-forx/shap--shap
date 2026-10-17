@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/shap/shap/commit/4f8a9c97fb0ea4ce4b3c023f7aa6e86f4780610d",
       "git:hexsha": "4f8a9c97fb0ea4ce4b3c023f7aa6e86f4780610d",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v0.54.1rc0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.54.1rc0",
+      "repolex:parsedAt": "2026-10-17T07:21:41.615532+00:00"
     },
     {
       "@id": "https://repolex.ai/r/shap/shap/commit/071c48e97fcc10330813c088babbe492976b283e",
